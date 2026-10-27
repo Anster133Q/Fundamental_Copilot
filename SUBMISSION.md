@@ -147,17 +147,9 @@ An automated test runner (`test_verification.mjs`) was executed via `npx tsx` co
 # Artifact 04: Working App Access & Deployment Guide
 
 ### Live Demo & Repository Access
-- **Local Application URL:** `http://localhost:4173` (Vite production preview running)
-- **Repository Directory:** `c:\Users\Asus\Desktop\Nubra_Product`
-- **One-Command Online Deployment (Vercel / Netlify):**
-  This project is built with standard Vite + React + TypeScript and can be deployed with zero configuration:
-  ```bash
-  # Deploy to Vercel
-  npx vercel --prod
-  
-  # Or Deploy to Netlify
-  npx netlify deploy --prod --dir=dist
-  ```
+- **Live Production URL:** [https://fundamentals-copilot.vercel.app](https://fundamentals-copilot.vercel.app)
+- **GitHub Repository:** [https://github.com/Anster133Q/Fundamental_Copilot](https://github.com/Anster133Q/Fundamental_Copilot)
+- **Local Application URL:** `http://localhost:4173` (Vite preview)
 
 ### How to Run Locally
 

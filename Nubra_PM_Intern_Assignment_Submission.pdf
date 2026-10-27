@@ -382,7 +382,7 @@ endobj
 endobj
 6 0 obj
 <<
-/Length 9525
+/Length 9409
 >>
 stream
 0. w
@@ -852,25 +852,24 @@ BT
 9.7749999999999986 TL
 0.278 0.333 0.412 rg
 45. 452. Td
-(• Local Application Preview: http://localhost:4173 \(Active Vite production server\)) Tj
-T* (• Project Directory: c:\\Users\\Asus\\Desktop\\Nubra_Product) Tj
-T* (• Quick Run Command: npm run build && npm run preview) Tj
+(• Live Production URL: https://fundamentals-copilot.vercel.app) Tj
+T* (• GitHub Repository: https://github.com/Anster133Q/Fundamental_Copilot) Tj
+T* (• Local Application Preview: http://localhost:4173) Tj
 T* (• Automated Test Suite: npx tsx test_verification.mjs \(55/55 tests passed\)) Tj
-T* (• Deployment: Built with standard Vite + React + TypeScript, ready for zero-config deployment to Vercel \(npx vercel --prod\) or Netlify) Tj
-T* (\(npx netlify deploy --prod --dir=dist\).) Tj
+T* (• Deployment: Deployed on Vercel with automatic continuous integration from GitHub.) Tj
 ET
 BT
 /F2 9.5 Tf
 10.9249999999999989 TL
 0.118 0.161 0.231 rg
-45. 381. Td
+45. 391.5 Td
 (Recommended Evaluator Click-Through Path) Tj
 ET
 BT
 /F1 8.5 Tf
 9.7749999999999986 TL
 0.278 0.333 0.412 rg
-45. 370. Td
+45. 380.5 Td
 (1. Open Dashboard: Inspect clean institutional interface and pre-loaded demonstration data labeling.) Tj
 T* (2. Switch Archetypes: Toggle between APEX \(SaaS\), NPM \(MedTech\), VANG \(Debt/Logistics\), and BGT \(Biotech burn\).) Tj
 T* (3. Filter Periods: Toggle between "All 5Y" and "Last 3Y" and review interactive Recharts visualizations.) Tj
@@ -1058,7 +1057,7 @@ endobj
 21 0 obj
 <<
 /Producer (jsPDF 4.2.1)
-/CreationDate (D:20261027212612+05'30')
+/CreationDate (D:20261027214247+05'30')
 >>
 endobj
 22 0 obj
@@ -1072,35 +1071,35 @@ endobj
 xref
 0 23
 0000000000 65535 f 
-0000019649 00000 n 
-0000021474 00000 n 
+0000019533 00000 n 
+0000021358 00000 n 
 0000000015 00000 n 
 0000000152 00000 n 
 0000009935 00000 n 
 0000010072 00000 n 
-0000019712 00000 n 
-0000019837 00000 n 
-0000019967 00000 n 
-0000020100 00000 n 
-0000020238 00000 n 
-0000020362 00000 n 
-0000020491 00000 n 
-0000020623 00000 n 
-0000020759 00000 n 
-0000020887 00000 n 
-0000021014 00000 n 
-0000021143 00000 n 
-0000021276 00000 n 
-0000021378 00000 n 
-0000021724 00000 n 
-0000021810 00000 n 
+0000019596 00000 n 
+0000019721 00000 n 
+0000019851 00000 n 
+0000019984 00000 n 
+0000020122 00000 n 
+0000020246 00000 n 
+0000020375 00000 n 
+0000020507 00000 n 
+0000020643 00000 n 
+0000020771 00000 n 
+0000020898 00000 n 
+0000021027 00000 n 
+0000021160 00000 n 
+0000021262 00000 n 
+0000021608 00000 n 
+0000021694 00000 n 
 trailer
 <<
 /Size 23
 /Root 22 0 R
 /Info 21 0 R
-/ID [ <794F6CD3F7BDF5139F9221115F18FC45> <794F6CD3F7BDF5139F9221115F18FC45> ]
+/ID [ <CFAC115AD26DC5D4BEFF70BAB38909C7> <CFAC115AD26DC5D4BEFF70BAB38909C7> ]
 >>
 startxref
-21914
+21798
 %%EOF

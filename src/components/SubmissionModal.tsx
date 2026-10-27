@@ -264,13 +264,32 @@ export const SubmissionModal: React.FC<SubmissionModalProps> = ({ isOpen, onClos
               </div>
 
               <div className="p-3.5 rounded-lg bg-slate-950 border border-slate-800 space-y-2 text-xs">
-                <div className="font-bold text-white">Local Prototype Access</div>
-                <div className="bg-slate-900 p-2 rounded font-mono text-[11px] text-blue-300 flex items-center justify-between">
-                  <span>http://localhost:4173 (Vite Preview Server Active)</span>
+                <div className="font-bold text-white">Live Production Deployment</div>
+                <div className="bg-slate-900 p-2.5 rounded font-mono text-[11px] text-blue-300 flex items-center justify-between">
+                  <a
+                    href="https://fundamentals-copilot.vercel.app"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="hover:underline flex items-center gap-1.5"
+                  >
+                    <span>https://fundamentals-copilot.vercel.app</span>
+                    <ExternalLink className="w-3.5 h-3.5" />
+                  </a>
+                  <span className="text-emerald-400 font-sans text-[10px] font-semibold bg-emerald-500/10 px-2 py-0.5 rounded border border-emerald-500/20">
+                    Live on Vercel
+                  </span>
                 </div>
-                <p className="text-slate-400 text-[11px]">
-                  Project workspace: <code className="text-slate-200">c:\Users\Asus\Desktop\Nubra_Product</code>
-                </p>
+                <div className="bg-slate-900 p-2.5 rounded font-mono text-[11px] text-slate-300 flex items-center justify-between">
+                  <a
+                    href="https://github.com/Anster133Q/Fundamental_Copilot"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="hover:underline flex items-center gap-1.5"
+                  >
+                    <span>github.com/Anster133Q/Fundamental_Copilot</span>
+                    <ExternalLink className="w-3.5 h-3.5" />
+                  </a>
+                </div>
               </div>
 
               <div className="p-3.5 rounded-lg bg-slate-950 border border-slate-800 space-y-2 text-xs">

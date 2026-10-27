@@ -226,7 +226,7 @@ y += 14;
 
 printSubsection(
   'Live Prototype & Verification Links',
-  '• Local Application Preview: http://localhost:4173 (Active Vite production server)\n• Project Directory: c:\\Users\\Asus\\Desktop\\Nubra_Product\n• Quick Run Command: npm run build && npm run preview\n• Automated Test Suite: npx tsx test_verification.mjs (55/55 tests passed)\n• Deployment: Built with standard Vite + React + TypeScript, ready for zero-config deployment to Vercel (npx vercel --prod) or Netlify (npx netlify deploy --prod --dir=dist).'
+  '• Live Production URL: https://fundamentals-copilot.vercel.app\n• GitHub Repository: https://github.com/Anster133Q/Fundamental_Copilot\n• Local Application Preview: http://localhost:4173\n• Automated Test Suite: npx tsx test_verification.mjs (55/55 tests passed)\n• Deployment: Deployed on Vercel with automatic continuous integration from GitHub.'
 );
 
 printSubsection(
